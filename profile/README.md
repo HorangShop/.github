@@ -1,12 +1,29 @@
-## Hi there 👋
+# HORANG STORE
 
-<!--
+HORANG STORE는 고품질 소프트웨어 개발 및 외주 서비스를 제공하는 전문 업체입니다. 다양한 업계의 요구에 맞춘 맞춤형 소프트웨어 솔루션을 제공합니다. 저희 팀은 최신 기술과 트렌드를 반영한 최적의 개발을 목표로 합니다.
 
-**Here are some ideas to get you started:**
+## 🛠 가능한 기술 스택
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 언어
+- **Kotlin**: 안드로이드 애플리케이션 개발 및 서버 사이드 애플리케이션에서 사용되는 강력한 언어.
+- **Java**: 백엔드 애플리케이션, 엔터프라이즈 솔루션, 및 크로스 플랫폼 애플리케이션 개발에 적합한 안정적인 언어.
+- **Python**: 데이터 분석, 웹 개발, AI/ML 프로젝트에서 광범위하게 사용되는 다목적 언어.
+- **JavaScript (JS)**: 프론트엔드 및 백엔드 애플리케이션을 위한 웹 기술의 핵심 언어.
+
+### 라이브러리 및 프레임워크
+- **React**: 동적인 사용자 인터페이스를 구축하기 위한 가장 인기 있는 프론트엔드 라이브러리.
+- **Spring Boot**: 마이크로서비스 및 스케일링 가능한 백엔드 애플리케이션을 구축하기 위한 강력한 프레임워크.
+- **Node.js**: 서버 사이드 애플리케이션 개발을 위한 비동기 이벤트 드리븐 자바스크립트 런타임.
+- **Django/Flask**: Python 기반의 웹 애플리케이션을 빠르게 개발하기 위한 웹 프레임워크.
+
+## 🚀 서비스 제공
+HORANG STORE는 고객의 요구에 맞는 맞춤형 소프트웨어 개발 서비스를 제공합니다. 주요 서비스는 다음과 같습니다:
+- **모바일 애플리케이션 개발**: Kotlin, Java를 활용한 안드로이드 및 iOS 애플리케이션 개발.
+- **웹 애플리케이션 개발**: React, Spring Boot, Django 등을 사용한 프론트엔드 및 백엔드 애플리케이션 개발.
+- **데이터 분석 및 AI/ML 솔루션**: Python 기반의 데이터 분석, 머신러닝 모델 구축 및 배포.
+- **유지보수 및 기술 지원**: 기존 시스템의 유지보수, 성능 최적화 및 기술 지원.
+
+## 📞 문의
+궁금한 사항이나 프로젝트 의뢰는 언제든지 연락 주십시오.
+- 디스코드: https://discord.gg/horangstore
+
